@@ -1,6 +1,6 @@
 # Chinese Method for Multiplication
 
-- This project represent an implementation of an old method for multiply numbers developed by chinese people.
+- This project represents an implementation of an old method for multiply numbers developed by chinese people.
 - This project is made in Python.
 - This project was a collaboration with <a href="https://github.com/gabrielaburtan"> Gabriela Burtan</a>.
 - The file <a href="MetodaChinezeascaDeInmultire.pdf"> MetodaChinezeascaDeInmultire.pdf </a> is a documentation for the app written in Romanian.
