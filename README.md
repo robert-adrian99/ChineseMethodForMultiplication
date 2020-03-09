@@ -9,7 +9,7 @@
 
 The GUI is not very complex because this project was our first project in Python and we were just learning. The app is very simple:
 1. The user enters the numbers in the TextBoxes.
-2. The user presses the `Multiply` button, then the turtle starts drwing the lines and then the result is diplayed.
+2. The user presses the `Multiply` button, then the turtle starts drawing the lines and then the result is diplayed.
 3. The user presses the `Clear` button to clear the TextBoxes and the Canvas.
 
 <img src="images/ChineseMethodForMultiplication.jpg">
